@@ -1,0 +1,4 @@
+web: node index.js
+
+
+// remove this after wards: in package.json file replace nodemon with node in 'nodemon index.js'
